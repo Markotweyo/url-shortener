@@ -14,7 +14,7 @@ import
     MenuItemBtn, 
     MenuLink,
     MenuLinkBtn
-} from '../styles/Navbar.style.js';
+} from '../styles/NavbarStyle.js';
 const Navbar = () => {
     const [click, setClick] = useState(false);
     const [button, setButton] = useState(true);

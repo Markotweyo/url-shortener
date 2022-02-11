@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import {BiRestaurant} from 'react-icons/bi';
-import {Container} from '../styles/GlobalStyles';
+import {Container} from './GlobalStyles';
 
 
 export const Nav = styled.nav` 
