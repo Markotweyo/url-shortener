@@ -14,8 +14,7 @@ The users is able to:
   <li>Receive an error message when the form is submitted with empty or invalid input</li>
 </ul>
 
-Click <a href="https://shortly-joaovitoroli-git-master-joaovitoroli.vercel.app" target="_blank">here</a> to see the demo.
-<img src="https://github.com/JoaoVitorOli/shortly-landing-page/blob/master/desktop-preview.jpg"/>
+Click <a href="https://url-link-shortener.netlify.app/" target="_blank">here</a> to see the demo.
 
 ## Available Scripts
 
