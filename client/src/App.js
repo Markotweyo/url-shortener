@@ -8,12 +8,6 @@ function App() {
     <div className="App">
       <Landingpage/>
     </div>
-        
-      
-      
-   
-    
- 
   );
 }
 
