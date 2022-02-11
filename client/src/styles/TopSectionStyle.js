@@ -31,7 +31,7 @@ import styled from 'styled-components';
     margin-bottom: 30px;
     width: 400px;
     color: var(--text);
-    font-weight: 300;
+    font-weight: 700;
 
     @media (max-width: 622px) {
         width: 100%;
